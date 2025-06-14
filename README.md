@@ -1,57 +1,58 @@
-<h1 align="center">Hi 👋, I'm ExtNYU (Ikbal Gumilar)</h1>
-<h3 align="center">Mobile App & Game Developer | Flutter, Unity, Unreal Engine</h3>
+<h1 align="center">Hi 👋, I'm ExtNYU / Nyu</h1>
+<h3 align="center">Mobile App & Game Developer | Flutter · Unity · Unreal Engine</h3>
 
 <div align="center">
-  <img src="https://media.tenor.com/Q70aP0AozkEAAAAC/unity-unreal.gif" width="48%">
-  <img src="https://media.tenor.com/F6aLNG38v9cAAAAC/flutter-dart.gif" width="48%">
+  <img src="https://media.tenor.com/Vu9Xn2a7sU8AAAAC/code-coding.gif" width="45%" />
+  <img src="https://windowscustomization.com/wp-content/uploads/2019/05/Anime.gif" width="45%" />
 </div>
 
 ---
 
-## 💬 Motivasi
+## 🧠 Tentang Saya
 
-> *"Membangun dunia digital bukan hanya tentang coding — tapi tentang menciptakan pengalaman, menyelesaikan masalah nyata, dan memberi makna dari setiap baris kode."*
-
-Saya percaya bahwa teknologi seperti **Flutter**, **Unity**, dan **Unreal Engine** bukan hanya alat, tapi jembatan untuk mewujudkan ide dan kreativitas menjadi kenyataan.
-
----
-
-## 🛠️ Tech Stack
-
-**Game & Simulation:**
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unreal-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-**Mobile Development:**
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-**Language & Tools:**
-![C#](https://img.shields.io/badge/C%23-68217A.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- 🔭 Fokus saya saat ini pada pengembangan aplikasi dan game untuk **mobile** menggunakan **Flutter**, **Unity (C#)**, dan **Unreal Engine (C++/Blueprints)**.
+- 🌱 Sedang mendalami **Firebase**, serta memperkuat pemahaman arsitektur backend dengan **PHP** dan **Java**.
+- 💡 Saya percaya bahwa _kode yang rapi adalah cerminan dari pola pikir yang tertata_.
+- 🎯 Motto: **"Kualitas bukan dari berapa banyak tools yang kamu kuasai, tapi dari seberapa dalam kamu memahaminya."**
 
 ---
 
-## 🚀 Project Highlights
+## 🧰 Teknologi dan Bahasa yang Dikuasai
 
-### 🏦 [BMT_KBS](https://github.com/IkbalGumilar/bmt_kbs)
-Digital cooperative app built with Flutter. Full-feature client-side system with user auth, transaction UI, and role-based logic. Developed as part of a production project.
+### 🔤 Bahasa Pemrograman
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🏭 Night Shift Clothing Factory
-Game prototype simulating late-night garment production. Built in Unity, focusing on mechanics, environmental logic, and interactive elements. [Repo Privat]
+### 🛠️ Tools & Framework
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Proyek Unggulan
 
-![Ikbal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkbalGumilar&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkbalGumilar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🔹 [BMT KBS (Koperasi Digital App)](https://github.com/IkbalGumilar/bmt_kbs)
+- Aplikasi Flutter kompleks setara platform e-commerce
+- Dibangun oleh tim profesional, saya berperan sebagai **Frontend Developer**
+
+### 🔹 Night Shift Clothing Factory
+- Proyek indie mobile game berbasis Unity
+- Menyuguhkan elemen gameplay unik dengan latar industri malam hari
 
 ---
 
-## 📫 Contact
+## 📈 GitHub Stats
 
-- 📧 Email: ikbal@example.com  
-- 🌐 Portfolio: *coming soon*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IkbalGumilar&show_icons=true&theme=dark" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkbalGumilar&layout=compact&theme=dark" width="49%" />
+</p>
+
+---
+
+> _"Setiap baris kode bukan sekadar perintah kepada mesin, tapi juga ekspresi dari bagaimana manusia berpikir menyelesaikan masalah."_ — ExtNYU
