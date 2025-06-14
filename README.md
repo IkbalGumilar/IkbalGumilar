@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm ExtNYU / Nyu</h1>
 <h3 align="center">Mobile App & Game Developer | Flutter · Unity · Unreal Engine</h3>
 
-<div align="center">
-  <img src="https://media.tenor.com/Vu9Xn2a7sU8AAAAC/code-coding.gif" width="45%" />
-  <img src="https://windowscustomization.com/wp-content/uploads/2019/05/Anime.gif" width="45%" />
-</div>
-
----
 
 ## 🧠 Tentang Saya
 
