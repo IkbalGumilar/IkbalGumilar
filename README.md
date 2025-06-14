@@ -43,7 +43,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IkbalGumilar&show_icons=true&theme=dark" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkbalGumilar&layout=compact&theme=dark" width="49%" />
 </p>
 
