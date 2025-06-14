@@ -34,7 +34,7 @@
 - Aplikasi Flutter kompleks setara platform e-commerce
 - Dibangun oleh tim profesional, saya berperan sebagai **Frontend Developer**
 
-### 🔹 Night Shift Clothing Factory
+### 🔹 [Night Shift Clothing Factory (Game 3D Survival Horror)](https://github.com/IkbalGumilar/Night Shift Clothing Factory)
 - Proyek indie mobile game berbasis Unity
 - Menyuguhkan elemen gameplay unik dengan latar industri malam hari
 
